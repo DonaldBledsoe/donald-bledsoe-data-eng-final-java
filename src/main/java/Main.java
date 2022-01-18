@@ -11,6 +11,7 @@ import org.apache.beam.sdk.values.PCollection;
 
 import java.util.Arrays;
 
+//Misc note
 public class Main {
     public static void main(String[] args) {
 
