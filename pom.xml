@@ -18,6 +18,13 @@
             <artifactId>beam-runners-google-cloud-dataflow-java</artifactId>
             <version>2.35.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.beam/beam-vendor-guava-26_0-jre -->
+        <dependency>
+            <groupId>org.apache.beam</groupId>
+            <artifactId>beam-vendor-guava-26_0-jre</artifactId>
+            <version>0.1</version>
+        </dependency>
+
     </dependencies>
 
     <properties>
