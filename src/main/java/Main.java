@@ -20,7 +20,7 @@ public class Main {
         options.setStagingLocation("gs://york_temp_files/staging");
         options.setTempLocation("gs://york_temp_files/tmp");
         options.setRegion("us-central1");
-        options.setJobName("db-capstone-java");
+        options.setJobName("db-capstone-java1");
 
         Pipeline pipeline= Pipeline.create(options);
 
